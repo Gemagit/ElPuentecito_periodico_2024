@@ -1,0 +1,140 @@
+body {
+    background-color: rgb(223, 210, 193);
+    margin:30px;
+    padding-bottom: 20px;
+}
+
+
+.exorcismo {
+    padding: 20px;
+    background-color: antiquewhite;
+    columns: 3;
+    grid-column-gap: 3em;
+    border: dotted;
+    justify-content: auto;
+    column-rule:1px solid #020202;
+}
+
+
+.mono {
+    padding: 20px;
+    background-color: antiquewhite;
+    columns: 3;
+    grid-column-gap: 3em;
+    border: dotted;
+    justify-content: center;
+    column-rule:1px solid #020202;
+}
+
+
+.planta {
+    padding: 20px;
+    background-color: antiquewhite;
+    columns: 3;
+    grid-column-gap: 3em;
+    border: dotted;
+    justify-content: center;
+    column-rule:1px solid #020202;
+}
+
+
+.peques {
+    padding: 20px;
+    background-color: antiquewhite;
+    columns: 3;
+    grid-column-gap: 3em;
+    border: dotted;
+    justify-content: center;
+    column-rule:1px solid #020202;
+}
+
+
+.popaux {
+    padding: 20px;
+    background-color: antiquewhite;
+    columns: 3;
+    grid-column-gap: 3em;
+    border: dotted;
+    justify-content: center;
+    column-rule:1px solid #020202;
+}
+
+
+.exorcismo img {
+    width:100%;
+    object-fit: cover;
+    object-position: center center;
+}
+
+
+.mono img {
+    width:100%;
+    object-fit: cover;
+    object-position: center center;
+}
+
+
+.peques img {
+    width:100%;
+    object-fit: cover;
+    object-position: center center;
+}
+
+
+.planta img {
+    width:100%;
+    object-fit: cover;
+    object-position: center center;
+}
+
+
+.popaux img {
+    width:100%;
+    object-fit: cover;
+    object-position: center center;
+}
+
+
+h1 {
+    text-align: center;
+    font: oblique bold 100% cursive;
+    font-size: 40pt;
+}
+
+
+h2  {
+    font: oblique bold 100% cursive;
+    line-height: 100%;
+    font-size: 30pt;
+    font-weight: 1000;
+    column-span: all;
+    text-align: justify;
+    margin-top: auto;
+}
+
+
+h4 {
+    margin-top: 5px;
+    font: oblique bold 100% cursive;
+    line-height: 100%;
+    font-size: 20pt;
+    font-weight: 700;
+    text-align: justify;
+}
+
+
+p {
+    line-height: 200%;
+    font: oblique bold 120% cursive;
+    font-size: 12pt;
+    text-align: justify;
+}
+
+
+
+
+
+
+
+
+
